@@ -1,5 +1,6 @@
 namespace Tarea_2
 {
+ 
     public enum SortDirection
     {
         Ascending,
